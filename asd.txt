@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 asd pull
 =======
 asdpull
->>>>>>> 0ce6b471f537da9b3c333d629bb8cc248d25891d
+=======
+Vineet More
